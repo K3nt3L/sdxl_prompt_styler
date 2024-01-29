@@ -3,6 +3,8 @@
 ### SDXL Prompt Styler
 ![SDXL Prompt Styler Screenshot](examples/sdxl_prompt_styler.png)
 
+(update with own JSON)
+
 ### SDXL Prompt Styler Advanced
 ![SDXL Prompt Styler Advanced Screenshot](examples/sdxl_prompt_styler_advanced.png)
 
