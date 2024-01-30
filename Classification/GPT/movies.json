@@ -1,0 +1,237 @@
+[
+    {
+      "name": "Blade Runner",
+      "prompt": "Blade Runner movie still {prompt} . Cyberpunk, neon-lit, rainy, dystopian, noir, cinematic, highly detailed",
+      "negative_prompt": "bright, sunny, utopian, cheerful, undetailed"
+    },
+    {
+      "name": "Star Wars",
+      "prompt": "Star Wars movie still {prompt} . Space opera, galaxy far, far away, epic, iconic, cinematic, highly detailed",
+      "negative_prompt": "earthly, small scale, uniconic, undetailed"
+    },
+    {
+      "name": "Lord of the Rings",
+      "prompt": "Lord of the Rings movie still {prompt} . Epic fantasy, Middle-earth, vast landscapes, highly detailed",
+      "negative_prompt": "science fiction, cityscape, undetailed"
+    },
+    {
+      "name": "Matrix",
+      "prompt": "Matrix movie still {prompt} . Cyberpunk, green tint, reality-bending, cinematic, highly detailed",
+      "negative_prompt": "rustic, brown tint, reality-based, undetailed"
+    },
+    {
+      "name": "Indiana Jones",
+      "prompt": "Indiana Jones movie still {prompt} . Adventure, archaeology, exotic locations, cinematic, highly detailed",
+      "negative_prompt": "domestic, library, unadventurous, undetailed"
+    },
+    {
+      "name": "Mad Max",
+      "prompt": "Mad Max movie still {prompt} . Post-apocalyptic, desert landscapes, dystopian, cinematic, highly detailed",
+      "negative_prompt": "utopian, lush landscapes, pre-apocalyptic, undetailed"
+    },
+    {
+      "name": "2001: A Space Odyssey",
+      "prompt": "2001: A Space Odyssey movie still {prompt} . Sci-fi, space exploration, monolith, cinematic, highly detailed",
+      "negative_prompt": "fantasy, earth exploration, monochrome, undetailed"
+    },
+    {
+      "name": "Alien",
+      "prompt": "Alien movie still {prompt} . Sci-fi horror, space, xenomorphs, dark, highly detailed",
+      "negative_prompt": "comedy, bright, undetailed"
+    },
+    {
+      "name": "Avatar",
+      "prompt": "Avatar movie still {prompt} . Sci-fi, Pandora, bioluminescent, 3D, highly detailed",
+      "negative_prompt": "earthly, non-bioluminescent, 2D, undetailed"
+    },
+    {
+      "name": "Pulp Fiction",
+      "prompt": "Pulp Fiction movie still {prompt} . Crime, non-linear narrative, 90s, highly detailed",
+      "negative_prompt": "linear narrative, 2000s, undetailed"
+    },
+    {
+      "name": "Kill Bill",
+      "prompt": "Kill Bill movie still {prompt} . Martial arts, vengeance, yellow jumpsuit, cinematic, highly detailed",
+      "negative_prompt": "peaceful, pink jumpsuit, undetailed"
+    },
+    {
+      "name": "Inception",
+      "prompt": "Inception movie still {prompt} . Sci-fi, dream within a dream, mind-bending, cinematic, highly detailed",
+      "negative_prompt": "reality-based, straightforward, undetailed"
+    },
+    {
+      "name": "Fight Club",
+      "prompt": "Fight Club movie still {prompt} . Dark, gritty, psychological drama, highly detailed",
+      "negative_prompt": "light, glossy, undramatic, undetailed"
+    },
+    {
+      "name": "Harry Potter",
+      "prompt": "Harry Potter movie still {prompt} . Fantasy, Hogwarts, wizardry, highly detailed",
+      "negative_prompt": "science fiction, non-magical, undetailed"
+    },
+    {
+      "name": "Marvel Cinematic Universe",
+      "prompt": "Marvel Cinematic Universe movie still {prompt} . Superheroes, epic battles, colorful, highly detailed",
+      "negative_prompt": "ordinary people, small conflicts, monochrome, undetailed"
+    },
+    {
+      "name": "DC Extended Universe",
+      "prompt": "DC Extended Universe movie still {prompt} . Superheroes, grim, darker tones, highly detailed",
+      "negative_prompt": "ordinary people, cheerful, brighter tones, undetailed"
+    },
+    {
+      "name": "Game of Thrones",
+      "prompt": "Game of Thrones movie still {prompt} . Fantasy, Westeros, dragons, highly detailed",
+      "negative_prompt": "science fiction, no dragons, undetailed"
+    },
+    {
+      "name": "Twilight",
+      "prompt": "Twilight movie still {prompt} . Romantic fantasy, vampires, Pacific Northwest, highly detailed",
+      "negative_prompt": "non-romantic, zombies, desert, undetailed"
+    },
+    {
+      "name": "Transformers",
+      "prompt": "Transformers movie still {prompt} . Sci-fi, giant robots, explosions, highly detailed",
+      "negative_prompt": "fantasy, small creatures, calm, undetailed"
+    },
+    {
+      "name": "The Hunger Games",
+      "prompt": "The Hunger Games movie still {prompt} . Dystopian, survival, rebellion, highly detailed",
+      "negative_prompt": "utopian, abundance, conformity, undetailed"
+    },
+    {
+      "name": "Pirates of the Caribbean",
+      "prompt": "Pirates of the Caribbean movie still {prompt} . Adventure, pirates, supernatural, highly detailed",
+      "negative_prompt": "domestic, non-pirates, realistic, undetailed"
+    },
+    {
+      "name": "Jurassic Park",
+      "prompt": "Jurassic Park movie still {prompt} . Adventure, dinosaurs, Isla Nublar, highly detailed",
+      "negative_prompt": "undramatic, no dinosaurs, mainland, undetailed"
+    },
+    {
+      "name": "The Shining",
+      "prompt": "The Shining movie still {prompt} . Horror, haunted hotel, psychological thriller, highly detailed",
+      "negative_prompt": "comedy, non-haunted hotel, undetailed"
+    },
+    {
+      "name": "The Godfather",
+      "prompt": "The Godfather movie still {prompt} . Crime, mafia, 1940s-1950s, highly detailed",
+      "negative_prompt": "law-abiding, 2000s, undetailed"
+    },
+    {
+      "name": "The Dark Knight",
+      "prompt": "The Dark Knight movie still {prompt} . Superhero, gritty, Batman, Joker, highly detailed",
+      "negative_prompt": "light-hearted, Superman, undetailed"
+    },
+    {
+      "name": "Casablanca",
+      "prompt": "Casablanca movie still {prompt} . Drama, romance, WWII, highly detailed",
+      "negative_prompt": "action, non-romantic, modern day, undetailed"
+    },
+    {
+      "name": "Jaws",
+      "prompt": "Jaws movie still {prompt} . Thriller, shark, Amity Island, highly detailed",
+      "negative_prompt": "comedy, no shark, mainland, undetailed"
+    },
+    {
+      "name": "The Wizard of Oz",
+      "prompt": "The Wizard of Oz movie still {prompt} . Fantasy, musical, Technicolor, Oz, highly detailed",
+      "negative_prompt": "realistic, non-musical, monochrome, Kansas, undetailed"
+    },
+    {
+      "name": "E.T.",
+      "prompt": "E.T. movie still {prompt} . Sci-fi, family, suburban, highly detailed",
+      "negative_prompt": "fantasy, non-family, urban, undetailed"
+    },
+    {
+      "name": "Ghostbusters",
+      "prompt": "Ghostbusters movie still {prompt} . Comedy, supernatural, New York City, highly detailed",
+      "negative_prompt": "horror, natural, rural, undetailed"
+    },
+    {
+      "name": "Back to the Future",
+      "prompt": "Back to the Future movie still {prompt} . Sci-fi, time travel, DeLorean, highly detailed",
+      "negative_prompt": "fantasy, time stationary, non-vehicle, undetailed"
+    },
+    {
+      "name": "Toy Story",
+      "prompt": "Toy Story movie still {prompt} . Animated, toys come to life, friendship, highly detailed",
+      "negative_prompt": "live-action, inanimate toys, rivalry, undetailed"
+    },
+    {
+      "name": "The Lion King",
+      "prompt": "The Lion King movie still {prompt} . Animated, animal kingdom, African savannah, highly detailed",
+      "negative_prompt": "live-action, human kingdom, urban, undetailed"
+    },
+    {
+      "name": "Finding Nemo",
+      "prompt": "Finding Nemo movie still {prompt} . Animated, ocean adventure, Great Barrier Reef, highly detailed",
+      "negative_prompt": "live-action, land adventure, desert, undetailed"
+    },
+    {
+      "name": "Shrek",
+      "prompt": "Shrek movie still {prompt} . Animated, fairytale, swamp, highly detailed",
+      "negative_prompt": "live-action, realistic, city, undetailed"
+    },
+    {
+      "name": "The Little Mermaid",
+      "prompt": "The Little Mermaid movie still {prompt} . Animated, undersea, mermaids, highly detailed",
+      "negative_prompt": "live-action, land, humans, undetailed"
+    },
+    {
+      "name": "Aladdin",
+      "prompt": "Aladdin movie still {prompt} . Animated, Arabian Nights, magic carpet, highly detailed",
+      "negative_prompt": "live-action, modern day, ordinary carpet, undetailed"
+    },
+    {
+      "name": "Beauty and the Beast",
+      "prompt": "Beauty and the Beast movie still {prompt} . Animated, fairytale, enchanted castle, highly detailed",
+      "negative_prompt": "live-action, realistic, ordinary house, undetailed"
+    },
+    {
+      "name": "Cinderella",
+      "prompt": "Cinderella movie still {prompt} . Animated, fairytale, magical transformation, highly detailed",
+      "negative_prompt": "live-action, realistic, ordinary transformation, undetailed"
+    },
+    {
+      "name": "Sleeping Beauty",
+      "prompt": "Sleeping Beauty movie still {prompt} . Animated, fairytale, spinning wheel, highly detailed",
+      "negative_prompt": "live-action, realistic, sewing machine, undetailed"
+    },
+    {
+      "name": "Snow White",
+      "prompt": "Snow White movie still {prompt} . Animated, fairytale, seven dwarfs, highly detailed",
+      "negative_prompt": "live-action, realistic, seven giants, undetailed"
+    },
+    {
+      "name": "Mulan",
+      "prompt": "Mulan movie still {prompt} . Animated, historical, Chinese warfare, highly detailed",
+      "negative_prompt": "live-action, futuristic, space warfare, undetailed"
+    },
+    {
+      "name": "Pocahontas",
+      "prompt": "Pocahontas movie still {prompt} . Animated, historical, Native American, highly detailed",
+      "negative_prompt": "live-action, modern, urban American, undetailed"
+    },
+    {
+      "name": "The Nightmare Before Christmas",
+      "prompt": "The Nightmare Before Christmas movie still {prompt} . Stop-motion, Halloween Town, Christmas Town, highly detailed",
+      "negative_prompt": "live-action, Easter Town, undetailed"
+    },
+    {
+      "name": "Frozen",
+      "prompt": "Frozen movie still {prompt} . Animated, fairytale, ice magic, highly detailed",
+      "negative_prompt": "live-action, realistic, fire magic, undetailed"
+    },
+    {
+      "name": "Moana",
+      "prompt": "Moana movie still {prompt} . Animated, Polynesian, ocean adventure, highly detailed",
+      "negative_prompt": "live-action, Nordic, mountain adventure, undetailed"
+    },
+    {
+      "name": "Tangled",
+      "prompt": "Tangled movie still {prompt} . Animated, fairytale, magic hair, highly detailed",
+      "negative_prompt": "live-action, realistic, non-magical hair, undetailed"
+    }
+  ]

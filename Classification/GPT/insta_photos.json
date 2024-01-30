@@ -1,0 +1,397 @@
+[
+    {
+      "name": "High-Fashion",
+      "positive_prompt": "Photography by Mario Testino, {prompt} in haute couture. Luxury, designer brands, runway-ready, tailored, chic",
+      "negative_prompt": "casual, sporty, laid-back, street style, loose"
+    },
+    {
+      "name": "Casual-Chic",
+      "positive_prompt": "Photography by Annie Leibovitz, {prompt} in a casual chic outfit. Comfortable, stylish, modern, accessible",
+      "negative_prompt": "formal, high fashion, flamboyant, extravagant"
+    },
+    {
+      "name": "Streetwear",
+      "positive_prompt": "Photography by Tommy Ton, {prompt} rocking the streetwear trend. Urban, hip-hop influence, sneakers, caps, oversized",
+      "negative_prompt": "preppy, conservative, formal, traditional"
+    },
+    {
+      "name": "Athletic",
+      "positive_prompt": "Photography by Tim Tadder, {prompt} in athletic wear. Sporty, gym-ready, functional, sneakers, activewear",
+      "negative_prompt": "evening wear, formal, business, relaxed"
+    },
+    {
+      "name": "Vintage",
+      "positive_prompt": "Photography by Ellen von Unwerth, {prompt} in a vintage ensemble. Retro, nostalgia, classic styles, second-hand",
+      "negative_prompt": "modern, futuristic, minimalist, new"
+    },
+    {
+      "name": "Bohemian",
+      "positive_prompt": "Photography by David LaChapelle, {prompt} in boho fashion. Free-spirited, layered, patterns, ethnic-inspired, fringe",
+      "negative_prompt": "minimalist, structured, monochromatic, sleek"
+    },
+    {
+      "name": "Minimalist",
+      "positive_prompt": "Photography by Peter Lindbergh, {prompt} sporting minimalist fashion. Simple, clean lines, neutral colors, unfussy",
+      "negative_prompt": "vintage, boho, flamboyant, colorful"
+    },
+    {
+      "name": "Preppy",
+      "positive_prompt": "Photography by Bruce Weber, {prompt} dressed in preppy style. Collegiate, clean-cut, conservative, layered",
+      "negative_prompt": "gothic, punk, casual, relaxed"
+    },
+    {
+      "name": "Gothic",
+      "positive_prompt": "Photography by Paolo Roversi, {prompt} in a gothic getup. Dark, leather, lace, Victorian influence",
+      "negative_prompt": "preppy, pastel, boho, bright"
+    },
+    {
+      "name": "Punk",
+      "positive_prompt": "Photography by Mick Rock, {prompt} with a punk look. Rebellious, grungy, band tees, ripped denim",
+      "negative_prompt": "preppy, classic, conservative, formal"
+    },
+    {
+      "name": "Grunge",
+      "positive_prompt": "Photography by Corinne Day, {prompt} sporting a grunge look. '90s influence, flannel, band tees, distressed",
+      "negative_prompt": "preppy, glamorous, feminine, tailored"
+    },
+    {
+      "name": "Glamorous",
+      "positive_prompt": "Photography by Annie Leibovitz,  {prompt} looking glamorous. Luxury, sequins, fur, red carpet ready",
+      "negative_prompt": "casual, relaxed, sporty, minimalist"
+    },
+    {
+      "name": "Rocker",
+      "positive_prompt": "Photography by Mick Rock, {prompt} rocking the rock style. Leather, band tees, edgy, black",
+      "negative_prompt": "preppy, pastel, boho, cute"
+    },
+    {
+      "name": "Hipster",
+      "positive_prompt": "Photography by Terry Richardson, {prompt} in a hipster outfit. Eclectic, indie, non-mainstream, vintage",
+      "negative_prompt": "mainstream, sporty, glamorous, preppy"
+    },
+    {
+      "name": "Ethical",
+      "positive_prompt": "Photography by Dina Goldstein, {prompt} wearing ethical fashion. Sustainable, fair trade, organic materials, eco-friendly",
+      "negative_prompt": "fast fashion, synthetic, mass-produced, cheap"
+    },
+    {
+      "name": "Business Casual",
+      "positive_prompt": "Photography by Richard Avedon, {prompt} dressed in business casual. Semi-formal, tailored, smart, professional",
+      "negative_prompt": "sporty, casual, grunge, punk"
+    },
+    {
+      "name": "Beachwear",
+      "positive_prompt": "Photography by Slim Aarons, {prompt} in beachwear. Bikinis, cover-ups, sandals, straw hats, light fabrics",
+      "negative_prompt": "winter wear, formal, business, structured"
+    },
+    {
+      "name": "Activewear",
+      "positive_prompt": "Photography by Rankin, {prompt} in stylish activewear. Sporty, comfortable, functional, athleisure",
+      "negative_prompt": "evening wear, formal, preppy, boho"
+    },
+    {
+      "name": "Country",
+      "positive_prompt": "Photography by Annie Leibovitz, {prompt} sporting country style. Western, cowboy boots, plaid, denim",
+      "negative_prompt": "gothic, punk, high fashion, glamorous"
+    },
+    {
+      "name": "Military",
+      "positive_prompt": "Photography by Platon, {prompt} wearing military-inspired fashion. Camouflage, khaki, structured, badges",
+      "negative_prompt": "boho, glamorous, preppy, beachwear"
+    },
+    {
+      "name": "Kawaii",
+      "positive_prompt": "Photography by Mika Ninagawa, {prompt} in Kawaii style. Cute, pastel, girly, anime-inspired, frilly",
+      "negative_prompt": "gothic, punk, grunge, minimalist"
+    },
+    {
+      "name": "Lolita",
+      "positive_prompt": "Photography by Tim Walker, {prompt} in a Lolita ensemble. Victorian-inspired, frilly, bows, lace, layered",
+      "negative_prompt": "minimalist, sporty, casual, business"
+    },
+    {
+      "name": "Formal",
+      "positive_prompt": "Photography by Helmut Newton, {prompt} dressed in formal wear. Black tie, tuxedo, evening gown, polished",
+      "negative_prompt": "casual, sporty, grunge, beachwear"
+    },
+    {
+      "name": "Tomboy",
+      "positive_prompt": "Photography by Ellen von Unwerth, {prompt} rocking a tomboy look. Androgynous, loose, sneakers, caps",
+      "negative_prompt": "glamorous, feminine, boho, preppy"
+    },
+    {
+      "name": "Normcore",
+      "positive_prompt": "Photography by Juergen Teller, {prompt} dressed in normcore. Unpretentious, casual, basics, comfortable",
+      "negative_prompt": "high fashion, glamorous, punk, gothic"
+    },
+    {
+      "name": "Artistic",
+      "positive_prompt": "Photography by Cindy Sherman, {prompt} in an artistic outfit. Creative, unique, expressive, handmade",
+      "negative_prompt": "preppy, conservative, business, traditional"
+    },
+    {
+      "name": "Genderless",
+      "positive_prompt": "Photography by David Bailey, {prompt} in genderless fashion. Androgynous, neutral, modern, unisex",
+      "negative_prompt": "feminine, masculine, glam, preppy"
+    },
+    {
+      "name": "Monochromatic",
+      "positive_prompt": "Photography by Sebastião Salgado, {prompt} in a monochromatic look. Single color, sleek, modern, minimalist",
+      "negative_prompt": "colorful, vibrant, patterned, boho"
+    },
+    {
+      "name": "Mod",
+      "positive_prompt": "Photography by David Bailey, {prompt} dressed in Mod style. '60s influence, A-line, geometric patterns, bold",
+      "negative_prompt": "boho, grunge, minimalist, normcore"
+    },
+    {
+      "name": "Harajuku",
+      "positive_prompt": "Photography by Mika Ninagawa, {prompt} in Harajuku style. Japanese street fashion, eclectic, colorful, anime",
+      "negative_prompt": "conservative, preppy, minimalist, business"
+    },
+    {
+      "name": "Cyberpunk",
+      "positive_prompt": "Photography by Tim Walker, {prompt} in a cyberpunk outfit. Futuristic, dystopian, metallic, neon",
+      "negative_prompt": "vintage, retro, classic, boho"
+    },
+    {
+      "name": "Rave",
+      "positive_prompt": "Photography by Rankin, {prompt} in rave wear. Bright colors, neon, sequins, fur",
+      "negative_prompt": "business casual, preppy, conservative, minimalist"
+    },
+    {
+      "name": "Hippy",
+      "positive_prompt": "Photography by Elliott Landy, {prompt} in hippy style. '70s influence, tie-dye, bell-bottoms, fringe",
+      "negative_prompt": "preppy, conservative, formal, modern"
+    },
+    {
+      "name": "Skater",
+      "positive_prompt": "Photography by Hugh Holland, {prompt} rocking skater style. Casual, sneakers, baggy, sporty, laid-back",
+      "negative_prompt": "formal, glamorous, high fashion, preppy"
+    },
+    {
+      "name": "Pin-Up",
+      "positive_prompt": "Photography by Bunny Yeager, {prompt} in a pin-up style. Retro, '50s influence, feminine, curves",
+      "negative_prompt": "gothic, grunge, sporty, tomboy"
+    },
+    {
+      "name": "Nautical",
+      "positive_prompt": "Photography by Slim Aarons, {prompt} in a nautical outfit. Sailor-inspired, stripes, navy, white, red",
+      "negative_prompt": "gothic, punk, grunge, boho"
+    },
+    {
+      "name": "Futuristic",
+      "positive_prompt": "Photography by Syd Mead, {prompt} in futuristic fashion. Metallic, geometric, avant-garde, high-tech",
+      "negative_prompt": "vintage, classic, traditional, retro"
+    },
+    {
+      "name": "Eccentric",
+      "positive_prompt": "Photography by David LaChapelle, {prompt} in an eccentric ensemble. Unique, quirky, stand-out, individualistic",
+      "negative_prompt": "traditional, classic, conservative, minimalist"
+    },
+    {
+      "name": "Tailored",
+      "positive_prompt": "Photography by Patrick Demarchelier, {prompt} in a tailored suit. Formal, professional, sleek, well-fitted",
+      "negative_prompt": "casual, relaxed, oversized, loose"
+    },
+    {
+      "name": "Sustainable",
+      "positive_prompt": "Photography by Yann Arthus-Bertrand, {prompt} in sustainable fashion. Eco-friendly, organic, recycled materials, fair trade",
+      "negative_prompt": "fast fashion, synthetic, cheap, disposable"
+    },
+    {
+      "name": "Traditional",
+      "positive_prompt": "Photography by Steve McCurry, {prompt} in a traditional outfit. Ethnic, regional, cultural, heritage",
+      "negative_prompt": "modern, futuristic, western, mainstream"
+    },
+    {
+      "name": "Candid",
+      "positive_prompt": "Photography by Dorothea Lange, {prompt} in a candid moment. Unposed, natural, spontaneous, real-life situation",
+      "negative_prompt": "posed, artificial, studio shot, planned"
+    },
+    {
+      "name": "Portrait",
+      "positive_prompt": "Portrait shot by Annie Leibovitz, {prompt}. Close-up, eyes on camera, clear, sharp",
+      "negative_prompt": "wide shot, landscape, blurred, candid"
+    },
+    {
+      "name": "Lifestyle",
+      "positive_prompt": "Lifestyle photo by Brandon Stanton, {prompt}. Everyday activities, real-life situations, relatable",
+      "negative_prompt": "fantasy, staged, surreal, unrealistic"
+    },
+    {
+      "name": "Editorial",
+      "positive_prompt": "Editorial shot by Mario Sorrenti of {prompt}. Fashion-forward, styled, professional, magazine-ready",
+      "negative_prompt": "casual, candid, unstyled, amateur"
+    },
+    {
+      "name": "Glamour",
+      "positive_prompt": "Glamour shot by Helmut Newton of {prompt}. Beauty focused, make-up, lighting, seductive",
+      "negative_prompt": "natural, minimal, candid, unglamorous"
+    },
+    {
+      "name": "Fitness",
+      "positive_prompt": "Fitness photo by Arnold Schwarzenegger of {prompt}. Athletic, workout gear, active, strong",
+      "negative_prompt": "laid back, casual, non-athletic, inactive"
+    },
+    {
+      "name": "Boudoir",
+      "positive_prompt": "Boudoir shot by David Bellemere of {prompt}. Intimate, sensual, classy, tasteful",
+      "negative_prompt": "public, conservative, modest, non-intimate"
+    },
+    {
+      "name": "Silhouette",
+      "positive_prompt": "Silhouette photo by Fan Ho of {prompt}. Dramatic, backlighting, mysterious, creative",
+      "negative_prompt": "frontlit, clear, detailed, revealing"
+    },
+    {
+      "name": "Maternity",
+      "positive_prompt": "Maternity shot by Anne Geddes of {prompt}. Pregnancy, baby bump, motherhood, glowing",
+      "negative_prompt": "non-pregnant, childless, pre-pregnancy, post-pregnancy"
+    },
+    {
+      "name": "Black and White",
+      "positive_prompt": "Black and white photo by Ansel Adams of {prompt}. Monochrome, timeless, artistic, dramatic",
+      "negative_prompt": "color, vibrant, modern, digital"
+    },
+    {
+      "name": "Pin-Up",
+      "positive_prompt": "Pin-up style photo by Alberto Vargas of {prompt}. Retro, feminine, seductive, fun",
+      "negative_prompt": "modern, conservative, modest, non-vintage"
+    },
+    {
+      "name": "Headshot",
+      "positive_prompt": "Headshot by George Hurrell of {prompt}. Professional, clear, neutral background, focused",
+      "negative_prompt": "full body, casual, distracting background, unfocused"
+    },
+    {
+      "name": "Full Body",
+    "positive_prompt": "Full body shot by Herb Ritts of {prompt}. Whole outfit, clear, sharp, balanced",
+    "negative_prompt": "close up, cropped, blurry, unbalanced"
+    },
+    {
+      "name": "High Fashion",
+      "positive_prompt": "High fashion photo by Irving Penn of {prompt}. Designer clothes, dramatic poses, avant-garde",
+      "negative_prompt": "casual, candid, natural, mainstream fashion"
+    },
+    {
+      "name": "Business",
+      "positive_prompt": "Business photo by Richard Avedon of {prompt}. Professional attire, workplace setting, confident",
+      "negative_prompt": "casual, relaxed, non-work, insecure"
+    },
+    {
+      "name": "Beach",
+      "positive_prompt": "Beach photo by Slim Aarons of {prompt}. Swimwear, sand, ocean, relaxed",
+      "negative_prompt": "urban, winter, formal, stressed"
+    },
+    {
+      "name": "Lingerie",
+      "positive_prompt": "Lingerie shot by Ellen von Unwerth of {prompt}. Intimate apparel, sensual, feminine, seductive",
+      "negative_prompt": "outerwear, modest, masculine, non-sensual"
+    },
+    {
+      "name": "Athletic",
+      "positive_prompt": "Athletic shot by Annie Leibovitz of {prompt}. Sportswear, action, energy, strength",
+      "negative_prompt": "leisure, inactive, weak, non-sporty"
+    },
+    {
+      "name": "Close-up",
+      "positive_prompt": "Close-up photo by Martin Schoeller of {prompt}. Detailed, intimate, clear, personal",
+      "negative_prompt": "wide shot, distant, blurry, impersonal"
+    },
+    {
+      "name": "Nature",
+      "positive_prompt": "Nature shot by Art Wolfe with {prompt}. Outdoors, greenery, natural light, fresh",
+      "negative_prompt": "indoor, city, artificial light, stale"
+    },
+    {
+      "name": "Studio",
+      "positive_prompt": "Studio shot by Richard Avedon of {prompt}. Controlled lighting, plain background, clear",
+      "negative_prompt": "outdoor, natural light, busy background, unclear"
+    },
+    {
+      "name": "Street",
+      "positive_prompt": "Street shot by Henri Cartier-Bresson of {prompt}. Urban, casual, candid, trendy",
+      "negative_prompt": "rural, formal, posed, traditional"
+    },
+    {
+      "name": "Dance",
+      "positive_prompt": "Dance photo by Lois Greenfield of {prompt}. Movement, grace, energy, rhythm",
+      "negative_prompt": "static, clumsy, lethargic, off-beat"
+    },
+    {
+      "name": "Vintage",
+      "positive_prompt": "Vintage style photo by Dovima of {prompt}. Retro, nostalgic, old-fashioned, timeless",
+      "negative_prompt": "modern, futuristic, trendy, transient"
+    },
+    {
+      "name": "Low Light",
+      "positive_prompt": "Low light photo by Bill Brandt of {prompt}. Ambient, moody, dramatic, shadowy",
+      "negative_prompt": "bright, cheerful, flat, clear"
+    },
+    {
+      "name": "Underwater",
+      "positive_prompt": "Underwater photo by David Doubilet of {prompt}. Aquatic, serene, dreamlike, floaty",
+      "negative_prompt": "land, hectic, realistic, heavy"
+    },
+    {
+      "name": "Action",
+      "positive_prompt": "Action shot by Joe McNally of {prompt}. Movement, energy, dynamic, intense",
+      "negative_prompt": "still, calm, static, gentle"
+    },
+    {
+      "name": "Fashion",
+      "positive_prompt": "Fashion shot by Steven Meisel of {prompt}. Trendy outfit, styled, runway-ready, chic",
+      "negative_prompt": "plain, unstyled, out of style, ordinary"
+    },
+    {
+      "name": "Aerial",
+      "positive_prompt": "Aerial shot by Yann Arthus-Bertrand of {prompt}. Birds-eye view, grand, adventurous, stunning",
+      "negative_prompt": "ground level, confined, cautious, underwhelming"
+    },
+    {
+      "name": "Music",
+      "positive_prompt": "Music-related shot by Jim Marshall of {prompt}. Playing an instrument, singing, energetic, passionate",
+      "negative_prompt": "quiet, uninterested, uninvolved, lackluster"
+    },
+    {
+      "name": "Abstract",
+      "positive_prompt": "Abstract photo by Man Ray of {prompt}. Artistic, unique, creative, unconventional",
+      "negative_prompt": "concrete, literal, conventional, uncreative"
+    },
+    {
+      "name": "Fine Art",
+      "positive_prompt": "Fine art photo by Cindy Sherman of {prompt}. Conceptual, creative, artistic, aesthetic",
+      "negative_prompt": "commercial, literal, uncreative, unaesthetic"
+    },
+    {
+      "name": "Cityscape",
+      "positive_prompt": "Cityscape shot by Andreas Gursky with {prompt}. Urban, skyline, architectural, dynamic",
+      "negative_prompt": "rural, landscape, natural, static"
+    },
+    {
+      "name": "Landscape",
+      "positive_prompt": "Landscape shot by Ansel Adams with {prompt}. Scenic, outdoors, grand, beautiful",
+      "negative_prompt": "indoor, close-up, confined, unattractive"
+    },
+    {
+      "name": "Macro",
+      "positive_prompt": "Macro shot by Robert Mapplethorpe of {prompt}. Extremely close-up, detailed, intricate, revealing",
+      "negative_prompt": "wide shot, undetailed, simple, concealing"
+    },
+    {
+      "name": "Golden Hour",
+      "positive_prompt": "Golden hour shot by Gregory Crewdson of {prompt}. Warm light, sunset/sunrise, magical, serene",
+      "negative_prompt": "midday, harsh light, mundane, agitated"
+    },
+    {
+      "name": "Blue Hour",
+      "positive_prompt": "Blue hour shot by Alex Webb of {prompt}. Cool light, after sunset/before sunrise, tranquil, mysterious",
+      "negative_prompt": "midday, harsh light, mundane, agitated"
+    },
+    {
+      "name": "Candid",
+      "positive_prompt": "Candid shot by Henri Cartier-Bresson of {prompt}. Unposed, natural, spontaneous, real-life moment",
+      "negative_prompt": "posed, artificial, studio, staged"
+    }
+  ]

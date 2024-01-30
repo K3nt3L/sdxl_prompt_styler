@@ -1,0 +1,227 @@
+[
+    {
+      "name": "2D Traditional Animation",
+      "positive_prompt": "traditional 2D animation movie still {prompt} . hand-drawn, frames, expressive, vibrant colors, highly detailed",
+      "negative_prompt": "3D, CG, stop-motion, photo-realistic, black and white"
+    },
+    {
+      "name": "CGI Animation",
+      "positive_prompt": "CGI animation movie still {prompt} . 3D, photorealistic, high-quality textures and lighting, highly detailed",
+      "negative_prompt": "2D, stop-motion, anime, manga, black and white"
+    },
+    {
+      "name": "Stop-Motion Animation",
+      "positive_prompt": "stop-motion animation movie still {prompt} . physical models, frame-by-frame, quirky, distinctive, highly detailed",
+      "negative_prompt": "2D, 3D, CG, anime, manga, black and white"
+    },
+    {
+      "name": "SClaymation",
+      "positive_prompt": "claymation movie still {prompt} . clay models, stop-motion, handcrafted, tactile, highly detailed",
+      "negative_prompt": "2D, 3D, CG, anime, manga, black and white"
+    },
+    {
+      "name": "Vector Animation",
+      "positive_prompt": "vector animation movie still {prompt} . digital, clean lines, geometric shapes, bold colors, highly detailed",
+      "negative_prompt": "stop-motion, claymation, 3D, CG, black and white"
+    },
+    {
+      "name": "Flash Animation",
+      "positive_prompt": "flash animation movie still {prompt} . digital, vector graphics, tweening, simple shapes, highly detailed",
+      "negative_prompt": "stop-motion, claymation, 3D, CG, black and white"
+    },
+    {
+      "name": "Rotoscope Animation",
+      "positive_prompt": "rotoscope animation movie still {prompt} . traced over live-action, realistic movement, highly detailed",
+      "negative_prompt": "stop-motion, claymation, 3D, CG, black and white"
+    },
+    {
+      "name": "Cut-Out Animation",
+      "positive_prompt": "cut-out animation movie still {prompt} . paper or fabric cut-outs, stop-motion, handcrafted, highly detailed",
+      "negative_prompt": "2D, 3D, CG, anime, manga, black and white"
+    },
+    {
+      "name": "Sand Animation",
+      "positive_prompt": "sand animation movie still {prompt} . sand manipulated on light box, fluid movement, highly detailed",
+      "negative_prompt": "2D, 3D, CG, anime, manga, black and white"
+    },
+    {
+      "name": "Pixel Art Animation",
+      "positive_prompt": "pixel art animation movie still {prompt} . low-res, blocky, digital, 8-bit, highly detailed",
+      "negative_prompt": "stop-motion, claymation, 3D, CG, black and white"
+    },
+    {
+      "name": "Anime Animation",
+      "positive_prompt": "anime style animation movie still {prompt} . Japanese style, hand-drawn or digital, vibrant, unique character designs, highly detailed",
+      "negative_prompt": "western cartoons, 3D, CG, black and white"
+    },
+    {
+      "name": "Manga Art",
+      "positive_prompt": "manga style movie still {prompt} . Japanese comics, black and white, unique character designs, detailed backgrounds, highly detailed",
+      "negative_prompt": "western comics, 3D, CG, vibrant colors"
+    },
+    {
+      "name": "Chibi Art",
+      "positive_prompt": "chibi style movie still {prompt} . Japanese, super-deformed, cute, exaggerated features, vibrant colors, highly detailed",
+      "negative_prompt": "realistic, 3D, CG, western comics, black and white"
+    },
+    {
+      "name": "Style: Superflat",
+      "positive_prompt": "superflat movie still {prompt} . Japanese, postmodern art, flat planes of color, manga and anime influences, highly detailed",
+      "negative_prompt": "3D, CG, western art styles, black and white"
+    },
+    {
+      "name": "Style: Ukiyo-e",
+      "positive_prompt": "ukiyo-e style movie still {prompt} . Japanese woodblock prints, flat areas of color, detailed patterns, subjects from history and mythology, highly detailed",
+      "negative_prompt": "modern, 3D, CG, western art styles, black and white"
+    },
+    {
+      "name": "Style: Western Comics Art",
+      "positive_prompt": "western comics art movie still {prompt} . bold lines, dynamic poses, vibrant colors, dramatic lighting, highly detailed",
+      "negative_prompt": "anime, manga, 3D, CG, black and white"
+    },
+    {
+      "name": "Style: Graphic Novel Art",
+      "positive_prompt": "graphic novel art movie still {prompt} . detailed, expressive, ranges from black and white to full color, often more realistic than traditional comics, highly detailed",
+      "negative_prompt": "anime, manga, 3D, CG, western comics"
+    },
+    {
+      "name": "Style: Cartoon Modern",
+      "positive_prompt": "cartoon modern movie still {prompt} . mid-century modern aesthetic, stylized, geometric shapes, flat colors, highly detailed",
+      "negative_prompt": "realistic, 3D, CG, anime, manga, black and white"
+    },
+    {
+      "name": "Style: Abstract Animation",
+      "positive_prompt": "abstract animation movie still {prompt} . nonrepresentational, uses movement and color to create mood or emotion, highly detailed",
+      "negative_prompt": "realistic, 3D, CG, anime, manga, black and white"
+    },
+    {
+      "name": "Style: Silhouette Animation",
+      "positive_prompt": "silhouette animation movie still {prompt} . black figures against light background, dramatic, based on shadow puppetry, highly detailed",
+      "negative_prompt": "colorful, 3D, CG, anime, manga, black and white"
+    },
+    {
+      "name": "Style: Looney Tunes",
+      "positive_prompt": "Looney Tunes movie still {prompt} . Cartoon, slapstick humor, dynamic and exaggerated character designs, colorful, vibrant, whimsical",
+      "negative_prompt": "3D, realism, manga, black and white, subdued, serious"
+    },
+    {
+      "name": "Style: Disney Classic",
+      "positive_prompt": "Disney Classic movie still {prompt} . Animation, fairy tales, musical numbers, expressive characters, bright colors, detailed, professional",
+      "negative_prompt": "manga, anime, black and white, sketchy, rough"
+    },
+    {
+      "name": "Style: Studio Ghibli",
+      "positive_prompt": "Studio Ghibli movie still {prompt} . Anime, magical realism, environmental themes, unique characters, breathtaking landscapes, highly detailed",
+      "negative_prompt": "cartoon, slapstick, black and white, photo-realistic, barren"
+    },
+    {
+      "name": "Style: Pixar",
+      "positive_prompt": "Pixar movie still {prompt} . 3D animation, heartwarming stories, photorealistic environments, appealing character designs, emotional depth, detailed, professional",
+      "negative_prompt": "2D, anime, manga, black and white, sketchy"
+    },
+    {
+      "name": "Style: Shōnen",
+      "positive_prompt": "Shōnen movie still {prompt} . Manga, action-packed, youthful characters, dynamic battles, inspiring themes, highly detailed",
+      "negative_prompt": "Disney, Pixar, black and white, realism, romantic comedy"
+    },
+    {
+      "name": "Style: Mecha",
+      "positive_prompt": "Mecha movie still {prompt} . Anime, robots, futuristic technologies, dynamic battles, detailed mechanical designs, highly detailed",
+      "negative_prompt": "Disney, Pixar, cartoon, Looney Tunes, realism, fairy tales"
+    },
+    {
+      "name": "Style: Shojo",
+      "positive_prompt": "Shojo movie still {prompt} . Manga, romantic themes, delicate art style, emotional narratives, highly detailed",
+      "negative_prompt": "action, mecha, 3D, Pixar, black and white, barren"
+    },
+    {
+      "name": "Style: Nickelodeon",
+      "positive_prompt": "Nickelodeon movie still {prompt} . Cartoon, humor, dynamic characters, wacky and colorful designs, highly detailed",
+      "negative_prompt": "anime, manga, black and white, sketchy, serious"
+    },
+    {
+      "name": "Style: Cartoon Network",
+      "positive_prompt": "Cartoon Network movie still {prompt} . Cartoon, humor, dynamic characters, unique and abstract designs, highly detailed",
+      "negative_prompt": "anime, manga, black and white, sketchy, serious"
+    },
+    {
+      "name": "Style: Adult Swim",
+      "positive_prompt": "Adult Swim movie still {prompt} . Animation, adult humor, surreal themes, unique and abstract designs, highly detailed",
+      "negative_prompt": "children's cartoons, Disney, fairy tales, bright colors, traditional"
+    },
+    {
+      "name": "Style: Adventure Time",
+      "positive_prompt": "Adventure Time movie still {prompt} . Cartoon, fantasy themes, quirky characters, vibrant colors, highly detailed",
+      "negative_prompt": "anime, manga, black and white, sketchy, serious"
+    },
+    {
+      "name": "Style: Rick and Morty",
+      "positive_prompt": "Rick and Morty movie still {prompt} . Cartoon, science fiction, adult humor, unique and abstract designs, highly detailed",
+      "negative_prompt": "children's cartoons, Disney, fairy tales, bright colors, traditional"
+    },
+    {
+      "name": "Style: South Park",
+      "positive_prompt": "South Park movie still {prompt} . Animation, satire, crude humor, simplistic designs, highly detailed",
+      "negative_prompt": "anime, manga, Disney, Pixar, detailed, professional"
+    },
+    {
+      "name": "Style: The Simpsons",
+      "positive_prompt": "The Simpsons movie still {prompt} . Animation, satire, family themes, recognizable yellow characters, highly detailed",
+      "negative_prompt": "anime, manga, Disney, Pixar, black and white"
+    },
+    {
+      "name": "Style: Family Guy",
+      "positive_prompt": "Family Guy movie still {prompt} . Animation, adult humor, satirical themes, cartoonish designs, highly detailed",
+      "negative_prompt": "anime, manga, Disney, Pixar, black and white"
+    },
+    {
+      "name": "Style: Bob's Burgers",
+      "positive_prompt": "Bob's Burgers movie still {prompt} . Animation, family themes, humor, quirky characters, highly detailed",
+      "negative_prompt": "anime, manga, Disney, Pixar, black and white"
+    },
+    {
+      "name": "Style: Gravity Falls",
+      "positive_prompt": "Gravity Falls movie still {prompt} . Cartoon, mystery, fantasy themes, unique character designs, highly detailed",
+      "negative_prompt": "anime, manga, Disney, Pixar, black and white"
+    },
+    {
+      "name": "Style: Steven Universe",
+      "positive_prompt": "Steven Universe movie still {prompt} . Cartoon, LGBTQ+ themes, fantasy, vibrant colors, unique character designs, highly detailed",
+      "negative_prompt": "anime, manga, Disney, Pixar, black and white"
+    },
+    {
+      "name": "Style: One Piece",
+      "positive_prompt": "One Piece movie still {prompt} . Manga, adventure, pirates, dynamic battles, unique character designs, highly detailed",
+      "negative_prompt": "cartoon, realism, Disney, Pixar, black and white"
+    },
+    {
+      "name": "Style: Attack on Titan",
+      "positive_prompt": "Attack on Titan movie still {prompt} . Anime, dystopian, giants, dynamic battles, highly detailed",
+      "negative_prompt": "cartoon, realism, Disney, Pixar, black and white"
+    },
+    {
+      "name": "Style: My Hero Academia",
+      "positive_prompt": "My Hero Academia movie still {prompt} . Anime, superhero, high school, dynamic battles, unique character designs, highly detailed",
+      "negative_prompt": "cartoon, realism, Disney, Pixar, black and white"
+    },
+    {
+      "name": "Style: Naruto",
+      "positive_prompt": "Naruto movie still {prompt} . Anime, ninjas, coming-of-age, dynamic battles, unique character designs, highly detailed",
+      "negative_prompt": "cartoon, realism, Disney, Pixar, black and white"
+    },
+    {
+      "name": "Style: Dragon Ball Z",
+      "positive_prompt": "Dragon Ball Z movie still {prompt} . Anime, martial arts, aliens, dynamic battles, unique character designs, highly detailed",
+      "negative_prompt": "cartoon, realism, Disney, Pixar, black and white"
+    },
+    {
+      "name": "Style: Sailor Moon",
+      "positive_prompt": "Sailor Moon movie still {prompt} . Anime, magical girls, romance, unique character designs, highly detailed",
+      "negative_prompt": "cartoon, realism, Disney, Pixar, black and white"
+    },
+    {
+      "name": "Style: Cowboy Bebop",
+      "positive_prompt": "Cowboy Bebop movie still {prompt} . Anime, space western, bounty hunters, noir themes, highly detailed",
+      "negative_prompt": "cartoon, realism, Disney, Pixar, black and white"
+    }
+  ]

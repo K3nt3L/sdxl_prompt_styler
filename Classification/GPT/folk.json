@@ -1,0 +1,632 @@
+[
+    {
+      "name": "Byzantine",
+      "positive_prompt": "Byzantine style {prompt}. religious, iconography, gold, highly detailed, mosaics",
+      "negative_prompt": "secular, simple, bronze, minimalist, paintings"
+    },
+    {
+      "name": "Celtic",
+      "positive_prompt": "Celtic style {prompt}. geometric patterns, intricate knots, medieval, highly detailed",
+      "negative_prompt": "random, simplistic, modern, undetailed"
+    },
+    {
+      "name": "Native American",
+      "positive_prompt": "Native American style {prompt}. traditional patterns, tribal, cultural symbols, highly detailed",
+      "negative_prompt": "modern, non-tribal, abstract, undetailed"
+    },
+    {
+      "name": "Aboriginal",
+      "positive_prompt": "Aboriginal style {prompt}. dot painting, Dreamtime stories, Australian culture, highly detailed",
+      "negative_prompt": "non-Australian, line drawing, abstract, undetailed"
+    },
+    {
+      "name": "Egyptian",
+      "positive_prompt": "Egyptian style {prompt}. hieroglyphs, gods and goddesses, Pharaohs, highly detailed",
+      "negative_prompt": "non-Egyptian, text-free, secular, undetailed"
+    },
+    {
+      "name": "Mayan",
+      "positive_prompt": "Mayan style {prompt}. glyphs, ancient civilization, detailed carvings, highly detailed",
+      "negative_prompt": "modern, non-Mayan, simplistic, undetailed"
+    },
+    {
+      "name": "Renaissance",
+      "positive_prompt": "Renaissance style {prompt}. humanism, realism, perspective, highly detailed",
+      "negative_prompt": "abstract, surreal, flat, undetailed"
+    },
+    {
+      "name": "Mughal",
+      "positive_prompt": "Mughal style {prompt}. Indian and Persian influence, miniature paintings, highly detailed",
+      "negative_prompt": "non-Indian, non-Persian, large-scale, undetailed"
+    },
+    {
+      "name": "Romanesque",
+      "positive_prompt": "Romanesque style {prompt}. medieval, religious, thick walls, highly detailed",
+      "negative_prompt": "modern, secular, transparent, undetailed"
+    },
+    {
+      "name": "Gothic",
+      "positive_prompt": "Gothic style {prompt}. medieval, pointed arches, stained glass, highly detailed",
+      "negative_prompt": "modern, round arches, clear glass, undetailed"
+    },
+    {
+      "name": "Baroque",
+      "positive_prompt": "Baroque style {prompt}. grandeur, drama, chiaroscuro, highly detailed",
+      "negative_prompt": "minimalist, calm, flat, undetailed"
+    },
+    {
+      "name": "Rococo",
+      "positive_prompt": "Rococo style {prompt}. ornate, pastel, love and nature themes, highly detailed",
+      "negative_prompt": "simple, dark, abstract, undetailed"
+    },
+    {
+      "name": "Pre-Raphaelite",
+      "positive_prompt": "Pre-Raphaelite style {prompt}. romantic, vivid color, medieval subjects, highly detailed",
+      "negative_prompt": "realistic, muted color, modern subjects, undetailed"
+    },
+    {
+      "name": "Impressionist",
+      "positive_prompt": "Impressionist style {prompt}. loose brushwork, light and color, ordinary subjects, highly detailed",
+      "negative_prompt": "tight brushwork, black and white, extraordinary subjects, undetailed"
+    },
+    {
+      "name": "Cubist",
+      "positive_prompt": "Cubist style {prompt}. geometric, multi-perspective, fragmented, highly detailed",
+      "negative_prompt": "organic, single perspective, whole, undetailed"
+    },
+    {
+      "name": "Surrealist",
+      "positive_prompt": "Surrealist style {prompt}. dreamlike, irrational, unexpected juxtapositions, highly detailed",
+      "negative_prompt": "realistic, rational, expected combinations, undetailed"
+    },
+    {
+      "name": "Futurist",
+      "positive_prompt": "Futurist style {prompt}. dynamic, technology, speed, highly detailed",
+      "negative_prompt": "static, nature, slow, undetailed"
+    },
+    {
+      "name": "Dada",
+      "positive_prompt": "Dada style {prompt}. absurd, anti-art, randomness, highly detailed",
+      "negative_prompt": "rational, pro-art, order, undetailed"
+    },
+    {
+      "name": "Expressionist",
+      "positive_prompt": "Expressionist style {prompt}. emotional, distorted, individual perspective, highly detailed",
+      "negative_prompt": "unemotional, realistic, collective perspective, undetailed"
+    },
+    {
+      "name": "Fauvist",
+      "positive_prompt": "Fauvist style {prompt}. bold color, wild brushwork, simplification, highly detailed",
+      "negative_prompt": "muted color, careful brushwork, detail, undetailed"
+    },
+    {
+      "name": "Socialist Realist",
+      "positive_prompt": "Socialist Realist style {prompt}. idealized, political, proletarian, highly detailed",
+      "negative_prompt": "realistic, apolitical, bourgeois, undetailed"
+    },
+    {
+      "name": "Pop Art",
+      "positive_prompt": "Pop Art style {prompt}. popular culture, advertising, bold, highly detailed",
+      "negative_prompt": "high art, non-commercial, muted, undetailed"
+    },
+    {
+      "name": "Suprematism",
+      "positive_prompt": "Suprematism style {prompt}. geometric, non-objective, primary colors, highly detailed",
+      "negative_prompt": "organic, objective, pastel colors, undetailed"
+    },
+    {
+      "name": "Symbolist",
+      "positive_prompt": "Symbolist style {prompt}. mythical, dreamy, spiritual, highly detailed",
+      "negative_prompt": "realistic, practical, secular, undetailed"
+    },
+    {
+      "name": "Pre-Columbian",
+      "positive_prompt": "Pre-Columbian style {prompt}. ancient Americas, native, cultural, highly detailed",
+      "negative_prompt": "modern, non-American, abstract, undetailed"
+    },
+    {
+      "name": "Constructivist",
+      "positive_prompt": "Constructivist style {prompt}. industrial, geometric, socialist, highly detailed",
+      "negative_prompt": "organic, round, capitalist, undetailed"
+    },
+    {
+      "name": "Art Nouveau",
+      "positive_prompt": "Art Nouveau style {prompt}. decorative, nature-inspired, curved lines, highly detailed",
+      "negative_prompt": "functional, geometric, straight lines, undetailed"
+    },
+    {
+      "name": "Precisionist",
+      "positive_prompt": "Precisionist style {prompt}. industrial, crisp, geometric, highly detailed",
+      "negative_prompt": "organic, blurry, round, undetailed"
+    },
+    {
+      "name": "Neoclassical",
+      "positive_prompt": "Neoclassical style {prompt}. ancient Rome and Greece, rational, heroic, highly detailed",
+      "negative_prompt": "modern, emotional, ordinary, undetailed"
+    },
+    {
+      "name": "Persian Miniature",
+      "positive_prompt": "Persian Miniature style {prompt}. Middle Eastern, intricate, storytelling, highly detailed",
+      "negative_prompt": "Western, simple, non-narrative, undetailed"
+    },
+    {
+      "name": "Edo",
+      "positive_prompt": "Edo style {prompt}. Japanese, woodblock prints, floating world, highly detailed",
+      "negative_prompt": "non-Japanese, oil painting, real-world, undetailed"
+    },
+    {
+      "name": "Tribal",
+      "positive_prompt": "Tribal style {prompt}. African, indigenous, symbolic, highly detailed",
+      "negative_prompt": "non-African, mainstream, abstract, undetailed"
+    },
+    {
+      "name": "Tibetan Thangka",
+      "positive_prompt": "Tibetan Thangka style {prompt}. spiritual, Buddhist, meditation, highly detailed",
+      "negative_prompt": "secular, non-Buddhist, disturbing, undetailed"
+    },
+    {
+      "name": "Art Deco",
+      "positive_prompt": "Art Deco style {prompt}. modern, geometric, luxury, highly detailed",
+      "negative_prompt": "vintage, organic, minimalism, undetailed"
+    },
+    {
+      "name": "Minimalist",
+      "positive_prompt": "Minimalist style {prompt}. simple, functional, unadorned, highly detailed",
+      "negative_prompt": "complex, decorative, adorned, undetailed"
+    },
+    {
+      "name": "Greek Classical",
+      "positive_prompt": "Greek Classical style {prompt}. ancient, mythology, balanced, highly detailed",
+      "negative_prompt": "modern, everyday life, unbalanced, undetailed"
+    },
+    {
+      "name": "African",
+      "positive_prompt": "African style {prompt}. tribal, symbolic, cultural, highly detailed",
+      "negative_prompt": "non-African, abstract, non-cultural, undetailed"
+    },
+    {
+      "name": "Russian Iconography",
+      "positive_prompt": "Russian Iconography style {prompt}. religious, orthodox, gold, highly detailed",
+      "negative_prompt": "secular, non-orthodox, silver, undetailed"
+    },
+    {
+      "name": "Nordic",
+      "positive_prompt": "Nordic style {prompt}. Scandinavian, minimal, nature, highly detailed",
+      "negative_prompt": "non-Scandinavian, maximal, urban, undetailed"
+    },
+    {
+      "name": "Inuit",
+      "positive_prompt": "Inuit style {prompt}. Arctic, native, animal themes, highly detailed",
+      "negative_prompt": "tropical, non-native, human themes, undetailed"
+    },
+    {
+      "name": "Maori",
+      "positive_prompt": "Maori style {prompt}. New Zealand, tribal, spiritual, highly detailed",
+      "negative_prompt": "non-New Zealand, non-tribal, secular, undetailed"
+    },
+    {
+      "name": "Iznik",
+      "positive_prompt": "Iznik style {prompt}. Turkish, ceramic, floral, highly detailed",
+      "negative_prompt": "non-Turkish, canvas, geometric, undetailed"
+    },
+    {
+      "name": "Ottoman",
+      "positive_prompt": "Ottoman style {prompt}. Islamic, calligraphy, miniatures, highly detailed",
+      "negative_prompt": "non-Islamic, typography, large-scale, undetailed"
+    },
+    {
+      "name": "Hanami",
+      "positive_prompt": "Hanami style {prompt}. Japanese, cherry blossoms, spring, highly detailed",
+      "negative_prompt": "non-Japanese, winter, abstract, undetailed"
+    },
+    {
+      "name": "Mandala",
+      "positive_prompt": "Mandala style {prompt}. spiritual, geometric, symmetrical, highly detailed",
+      "negative_prompt": "secular, organic, asymmetrical, undetailed"
+    },
+    {
+      "name": "Aztec",
+      "positive_prompt": "Aztec style {prompt}. ancient Mexico, symbolic, cultural, highly detailed",
+      "negative_prompt": "modern, abstract, non-cultural, undetailed"
+    },
+    {
+      "name": "Sumi-e",
+      "positive_prompt": "Sumi-e style {prompt}. Japanese ink painting, minimal, nature, highly detailed",
+      "negative_prompt": "non-Japanese, colorful, urban, undetailed"
+    },
+    {
+      "name": "Ukiyo-e",
+      "positive_prompt": "Ukiyo-e style {prompt}. Japanese, woodblock prints, floating world, highly detailed",
+      "negative_prompt": "non-Japanese, digital art, real-world, undetailed"
+    },
+    {
+      "name": "Haida",
+      "positive_prompt": "Haida style {prompt}. Native American, form line, nature, highly detailed",
+      "negative_prompt": "non-Native American, abstract, urban, undetailed"
+    },
+    {
+      "name": "Moorish",
+      "positive_prompt": "Moorish style {prompt}. Islamic, geometric, Andalusian, highly detailed",
+      "negative_prompt": "non-Islamic, organic, non-Andalusian, undetailed"
+    },
+    {
+      "name": "Victorian",
+      "positive_prompt": "Victorian style {prompt}. 19th century, ornate, romantic, highly detailed",
+      "negative_prompt": "21st century, minimal, unemotional, undetailed"
+    },
+    {
+      "name": "Pueblo",
+      "positive_prompt": "Pueblo style {prompt}. Native American, traditional, pottery, highly detailed",
+      "negative_prompt": "non-Native American, modern, photography, undetailed"
+    },
+    {
+      "name": "Cloisonné",
+      "positive_prompt": "Cloisonné style {prompt}. metalwork, enamel, intricate, highly detailed",
+      "negative_prompt": "woodwork, paint, simple, undetailed"
+    },
+    {
+      "name": "Khokhloma",
+      "positive_prompt": "Khokhloma style {prompt}. Russian, folk art, floral, highly detailed",
+      "negative_prompt": "non-Russian, fine art, geometric, undetailed"
+    },
+    {
+      "name": "Biedermeier",
+      "positive_prompt": "Biedermeier style {prompt}. 19th century, domestic, unpretentious, highly detailed",
+      "negative_prompt": "21st century, public, pretentious, undetailed"
+    },
+    {
+      "name": "Goryeo",
+      "positive_prompt": "Goryeo style {prompt}. Korean, celadon, inlay, highly detailed",
+      "negative_prompt": "non-Korean, terra cotta, relief, undetailed"
+    },
+    {
+      "name": "Han",
+      "positive_prompt": "Han style {prompt}. Chinese, ancient, stone relief, highly detailed",
+      "negative_prompt": "non-Chinese, modern, oil painting, undetailed"
+    },
+    {
+      "name": "Hellenistic",
+      "positive_prompt": "Hellenistic style {prompt}. ancient Greek, dynamic, emotional, highly detailed",
+      "negative_prompt": "modern, static, unemotional, undetailed"
+    },
+    {
+      "name": "Tang",
+      "positive_prompt": "Tang style {prompt}. Chinese, ancient, sculpture, highly detailed",
+      "negative_prompt": "non-Chinese, modern, photography, undetailed"
+    },
+    {
+      "name": "Ming",
+      "positive_prompt": "Ming style {prompt}. Chinese, elegant, pottery, highly detailed",
+      "negative_prompt": "non-Chinese, rustic, painting, undetailed"
+    },
+    {
+      "name": "Joseon",
+      "positive_prompt": "Joseon style {prompt}. Korean, Confucian, painting, highly detailed",
+      "negative_prompt": "non-Korean, Taoist, sculpture, undetailed"
+    },
+    {
+      "name": "Gupta",
+      "positive_prompt": "Gupta style {prompt}. Indian, ancient, sculpture, highly detailed",
+      "negative_prompt": "non-Indian, modern, painting, undetailed"
+    },
+    {
+      "name": "Pallava",
+      "positive_prompt": "Pallava style {prompt}. Indian, Dravidian architecture, sculpture, highly detailed",
+      "negative_prompt": "non-Indian, Mughal architecture, painting, undetailed"
+    },
+    {
+      "name": "Chola",
+      "positive_prompt": "Chola style {prompt}. Indian, bronze, dancing Shiva, highly detailed",
+      "negative_prompt": "non-Indian, marble, sitting Buddha, undetailed"
+    },
+    {
+      "name": "Minoan",
+      "positive_prompt": "Minoan style {prompt}. ancient Crete, frescoes, sea life, highly detailed",
+      "negative_prompt": "modern, oil painting, land animals, undetailed"
+    },
+    {
+      "name": "Mycenaean",
+      "positive_prompt": "Mycenaean style {prompt}. ancient Greece, gold, death mask, highly detailed",
+      "negative_prompt": "modern, bronze, life mask, undetailed"
+    },
+    {
+      "name": "Ndebele",
+      "positive_prompt": "Ndebele style {prompt}. African, geometric, house painting, highly detailed",
+      "negative_prompt": "non-African, organic, canvas painting, undetailed"
+    },
+    {
+      "name": "San",
+      "positive_prompt": "San style {prompt}. African, rock art, animal figures, highly detailed",
+      "negative_prompt": "non-African, digital art, human figures, undetailed"
+    },
+    {
+      "name": "Batik",
+      "positive_prompt": "Batik style {prompt}. Indonesian, resist dyeing, floral, highly detailed",
+      "negative_prompt": "non-Indonesian, direct dyeing, geometric, undetailed"
+    },
+    {
+      "name": "Assyrian",
+      "positive_prompt": "Assyrian style {prompt}. ancient Mesopotamia, relief, war scenes, highly detailed",
+      "negative_prompt": "modern, oil painting, peaceful scenes, undetailed"
+    },
+    {
+      "name": "Thracian",
+      "positive_prompt": "Thracian style {prompt}. ancient Balkans, gold, ritual objects, highly detailed",
+      "negative_prompt": "modern, wood, everyday objects, undetailed"
+    },
+    {
+      "name": "Etruscan",
+      "positive_prompt": "Etruscan style {prompt}. ancient Italy, bronze, mythological scenes, highly detailed",
+      "negative_prompt": "modern, steel, realistic scenes, undetailed"
+    },
+    {
+      "name": "Sumerian",
+      "positive_prompt": "Sumerian style {prompt}. ancient Mesopotamia, cuneiform, clay tablets, highly detailed",
+      "negative_prompt": "modern, Latin script, parchment scrolls, undetailed"
+    },
+    {
+      "name": "Babylonian",
+      "positive_prompt": "Babylonian style {prompt}. ancient Mesopotamia, law codes, stone steles, highly detailed",
+      "negative_prompt": "modern, lawless, paper books, undetailed"
+    },
+    {
+      "name": "Norse",
+      "positive_prompt": "Norse style {prompt}. Viking, runic, wood carving, highly detailed",
+      "negative_prompt": "non-Viking, Latin script, metalwork, undetailed"
+    },
+    {
+      "name": "Olmec",
+      "positive_prompt": "Olmec style {prompt}. ancient Mexico, colossal heads, basalt, highly detailed",
+      "negative_prompt": "modern, miniature hands, marble, undetailed"
+    },
+    {
+      "name": "Toltec",
+      "positive_prompt": "Toltec style {prompt}. ancient Mexico, monumental architecture, relief, highly detailed",
+      "negative_prompt": "modern, small-scale models, oil painting, undetailed"
+    },
+    {
+      "name": "Sicán",
+      "positive_prompt": "Sicán style {prompt}. ancient Peru, gold masks, funerary objects, highly detailed",
+      "negative_prompt": "modern, wood masks, everyday objects, undetailed"
+    },
+    {
+      "name": "Nazca",
+      "positive_prompt": "Nazca style {prompt}. ancient Peru, geoglyphs, desert, highly detailed",
+      "negative_prompt": "modern, graffiti, urban, undetailed"
+    },
+    {
+      "name": "Inca",
+      "positive_prompt": "Inca style {prompt}. ancient Peru, stonework, terraces, highly detailed",
+      "negative_prompt": "modern, woodwork, flat plains, undetailed"
+    },
+    {
+      "name": "Zapotec",
+      "positive_prompt": "Zapotec style {prompt}. ancient Mexico, urns, jaguars, highly detailed",
+      "negative_prompt": "modern, vases, dogs, undetailed"
+    },
+    {
+      "name": "Mixtec",
+      "positive_prompt": "Mixtec style {prompt}. ancient Mexico, codices, turquoise, highly detailed",
+      "negative_prompt": "modern, novels, gold, undetailed"
+    },
+    {
+      "name": "Ottonian",
+      "positive_prompt": "Ottonian style {prompt}. medieval Germany, religious art, manuscripts, highly detailed",
+      "negative_prompt": "modern, secular art, newspapers, undetailed"
+    },
+    {
+      "name": "Merovingian",
+      "positive_prompt": "Merovingian style {prompt}. medieval France, jewelry, garnet cloisonné, highly detailed",
+      "negative_prompt": "modern, clothing, sapphire pavé, undetailed"
+    },
+    {
+      "name": "Carolingian",
+      "positive_prompt": "Carolingian style {prompt}. medieval Europe, illuminated manuscripts, luxury, highly detailed",
+      "negative_prompt": "modern, paperback books, simplicity, undetailed"
+    },
+    {
+      "name": "Otomi",
+      "positive_prompt": "Otomi style {prompt}. Mexican, textile, embroidery, highly detailed",
+      "negative_prompt": "non-Mexican, metalwork, hammering, undetailed"
+    },
+    {
+      "name": "Huichol",
+      "positive_prompt": "Huichol style {prompt}. Mexican, yarn painting, spiritual, highly detailed",
+      "negative_prompt": "non-Mexican, oil painting, secular, undetailed"
+    },
+    {
+      "name": "Ainu",
+      "positive_prompt": "Ainu style {prompt}. Japanese indigenous, wood carving, bear worship, highly detailed",
+      "negative_prompt": "non-Japanese, stone carving, dragon worship, undetailed"
+    },
+    {
+      "name": "Maori",
+      "positive_prompt": "Maori style {prompt}. New Zealand, tattoo, spiritual, highly detailed",
+      "negative_prompt": "non-New Zealand, body paint, secular, undetailed"
+    },
+    {
+      "name": "Aboriginal",
+      "positive_prompt": "Aboriginal style {prompt}. Australian indigenous, dot painting, storytelling, highly detailed",
+      "negative_prompt": "non-Australian, line drawing, non-narrative, undetailed"
+    },
+    {
+      "name": "Inuit",
+      "positive_prompt": "Inuit style {prompt}. Arctic, stone carving, animal figures, highly detailed",
+      "negative_prompt": "tropical, wood carving, human figures, undetailed"
+    },
+    {
+      "name": "Saami",
+      "positive_prompt": "Saami style {prompt}. Nordic indigenous, duodji (craft), reindeer, highly detailed",
+      "negative_prompt": "non-Nordic, factory-made, cow, undetailed"
+    },
+    {
+      "name": "Ojibwe",
+      "positive_prompt": "Ojibwe style {prompt}. Native American, birch bark, canoes, highly detailed",
+      "negative_prompt": "non-Native American, pine bark, rafts, undetailed"
+    },
+    {
+      "name": "Tlingit",
+      "positive_prompt": "Tlingit style {prompt}. Native American, totem poles, spiritual, highly detailed",
+      "negative_prompt": "non-Native American, street signs, secular, undetailed"
+    },
+    {
+      "name": "Navajo",
+      "positive_prompt": "Navajo style {prompt}. Native American, textile, rug weaving, highly detailed",
+      "negative_prompt": "non-Native American, metalwork, jewelry making, undetailed"
+    },
+    {
+      "name": "Apache",
+      "positive_prompt": "Apache style {prompt}. Native American, basketry, coiled, highly detailed",
+      "negative_prompt": "non-Native American, pottery, thrown, undetailed"
+    },
+    {
+      "name": "Zuni",
+      "positive_prompt": "Zuni style {prompt}. Native American, jewelry, silver, highly detailed",
+      "negative_prompt": "non-Native American, clothing, cotton, undetailed"
+    },
+    {
+      "name": "Hopi",
+      "positive_prompt": "Hopi style {prompt}. Native American, kachina dolls, spiritual, highly detailed",
+      "negative_prompt": "non-Native American, action figures, secular, undetailed"
+    },
+    {
+      "name": "Sioux",
+      "positive_prompt": "Sioux style {prompt}. Native American, quillwork, porcupine, highly detailed",
+      "negative_prompt": "non-Native American, embroidery, silk, undetailed"
+    },
+    {
+      "name": "Lakota",
+      "positive_prompt": "Lakota style {prompt}. Native American, beadwork, clothing, highly detailed",
+      "negative_prompt": "non-Native American, sequin work, banners, undetailed"
+    },
+    {
+      "name": "Yupik",
+      "positive_prompt": "Yupik style {prompt}. Native American, mask, ceremonial, highly detailed",
+      "negative_prompt": "non-Native American, mask, recreational, undetailed"
+    },
+    {
+      "name": "Cherokee",
+      "positive_prompt": "Cherokee style {prompt}. Native American, pottery, stamped, highly detailed",
+      "negative_prompt": "non-Native American, pottery, painted, undetailed"
+    },
+    {
+      "name": "Mohawk",
+      "positive_prompt": "Mohawk style {prompt}. Native American, sweetgrass, basketry, highly detailed",
+      "negative_prompt": "non-Native American, bamboo, basketry, undetailed"
+    },
+    {
+      "name": "Cree",
+      "positive_prompt": "Cree style {prompt}. Native American, hide, clothing, highly detailed",
+      "negative_prompt": "non-Native American, synthetic material, clothing, undetailed"
+    },
+    {
+      "name": "Acoma",
+      "positive_prompt": "Acoma style {prompt}. Native American, pottery, sky city, highly detailed",
+      "negative_prompt": "non-Native American, pottery, earth city, undetailed"
+    },
+    {
+      "name": "Laguna",
+      "positive_prompt": "Laguna style {prompt}. Native American, pottery, polychrome, highly detailed",
+      "negative_prompt": "non-Native American, pottery, monochrome, undetailed"
+    },
+    {
+      "name": "Seminole",
+      "positive_prompt": "Seminole style {prompt}. Native American, patchwork, clothing, highly detailed",
+      "negative_prompt": "non-Native American, knitting, clothing, undetailed"
+    },
+    {
+      "name": "Osage",
+      "positive_prompt": "Osage style {prompt}. Native American, ribbon work, floral, highly detailed",
+      "negative_prompt": "non-Native American, beadwork, geometric, undetailed"
+    },
+    {
+      "name": "Anasazi",
+      "positive_prompt": "Anasazi style {prompt}. Native American, pottery, black-on-white, highly detailed",
+      "negative_prompt": "non-Native American, pottery, color-on-color, undetailed"
+    },
+    {
+      "name": "Mimbres",
+      "positive_prompt": "Mimbres style {prompt}. Native American, pottery, figurative, highly detailed",
+      "negative_prompt": "non-Native American, pottery, abstract, undetailed"
+    },
+    {
+      "name": "Pomo",
+      "positive_prompt": "Pomo style {prompt}. Native American, basketry, feathers, highly detailed",
+      "negative_prompt": "non-Native American, basketry, beads, undetailed"
+    },
+    {
+      "name": "Hohokam",
+      "positive_prompt": "Hohokam style {prompt}. Native American, pottery, red-on-buff, highly detailed",
+      "negative_prompt": "non-Native American, pottery, blue-on-cream, undetailed"
+    },
+    {
+      "name": "Mississippian",
+      "positive_prompt": "Mississippian style {prompt}. Native American, stone carving, ceremonial, highly detailed",
+      "negative_prompt": "non-Native American, wood carving, everyday, undetailed"
+    },
+    {
+      "name": "Fremont",
+      "positive_prompt": "Fremont style {prompt}. Native American, petroglyphs, rock art, highly detailed",
+      "negative_prompt": "non-Native American, graffiti, wall art, undetailed"
+    },
+    {
+      "name": "Mogollon",
+      "positive_prompt": "Mogollon style {prompt}. Native American, pottery, geometric, highly detailed",
+      "negative_prompt": "non-Native American, pottery, organic, undetailed"
+    },
+    {
+      "name": "Salado",
+      "positive_prompt": "Salado style {prompt}. Native American, pottery, polychrome, highly detailed",
+      "negative_prompt": "non-Native American, pottery, duochrome, undetailed"
+    },
+    {
+      "name": "Zulu",
+      "positive_prompt": "Zulu style {prompt}. African, basketry, coiled, highly detailed",
+      "negative_prompt": "non-African, pottery, thrown, undetailed"
+    },
+    {
+      "name": "Maasai",
+      "positive_prompt": "Maasai style {prompt}. African, beadwork, jewelry, highly detailed",
+      "negative_prompt": "non-African, macramé, wall hanging, undetailed"
+    },
+    {
+      "name": "Ndebele",
+      "positive_prompt": "Ndebele style {prompt}. African, mural art, homes, highly detailed",
+      "negative_prompt": "non-African, canvas art, studios, undetailed"
+    },
+    {
+      "name": "Kuba",
+      "positive_prompt": "Kuba style {prompt}. African, textile, raffia, highly detailed",
+      "negative_prompt": "non-African, metalwork, steel, undetailed"
+    },
+    {
+      "name": "Yoruba",
+      "positive_prompt": "Yoruba style {prompt}. African, sculpture, spiritual, highly detailed",
+      "negative_prompt": "non-African, photography, secular, undetailed"
+    },
+    {
+      "name": "Akan",
+      "positive_prompt": "Akan style {prompt}. African, gold weights, symbolic, highly detailed",
+      "negative_prompt": "non-African, silver weights, literal, undetailed"
+    },
+    {
+      "name": "Berber",
+      "positive_prompt": "Berber style {prompt}. North African, jewelry, silver, highly detailed",
+      "negative_prompt": "non-North African, clothing, cotton, undetailed"
+    },
+    {
+      "name": "Dogon",
+      "positive_prompt": "Dogon style {prompt}. African, wood carving, spiritual, highly detailed",
+      "negative_prompt": "non-African, stone carving, secular, undetailed"
+    },
+    {
+      "name": "Fang",
+      "positive_prompt": "Fang style {prompt}. African, mask, ceremonial, highly detailed",
+      "negative_prompt": "non-African, mask, recreational, undetailed"
+    },
+    {
+      "name": "Baga",
+      "positive_prompt": "Baga style {prompt}. African, mask, spiritual, highly detailed",
+      "negative_prompt": "non-African, mask, secular, undetailed"
+    }
+  ]

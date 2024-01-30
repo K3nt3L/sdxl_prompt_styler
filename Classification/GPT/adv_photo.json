@@ -1,0 +1,107 @@
+ [
+    {
+      "name": "Portrait Photography Style: Charismatic",
+      "positive_prompt": "{prompt} with charisma. 50mm lens, f/2.8, focused on eyes, natural lighting",
+      "negative_prompt": "overexposed, underexposed, blurry, distorted, overprocessed"
+    },
+    {
+      "name": "Portrait Photography Style: Cinematic",
+      "positive_prompt": "cinematic portrait of movie still {prompt}. 85mm lens, f/1.8, dramatic side lighting, moody atmosphere",
+      "negative_prompt": "overblown highlights, noisy, grainy, oversaturated, wide-angle distortion"
+    },
+    {
+      "name": "Portrait Photography Style: Environmental",
+      "positive_prompt": "environmental portrait of movie still {prompt}. 35mm lens, f/4, wider context, natural surroundings",
+      "negative_prompt": "cluttered background, poor lighting, overexposed, underexposed, unsharp"
+    },
+    {
+      "name": "Photojournalism Style: Reportage",
+      "positive_prompt": "gripping reportage of movie still {prompt}. Wide-angle lens, f/8, focus on action, capture the moment",
+      "negative_prompt": "blurred action, low light noise, unsteady shot, out of focus, distorted perspective"
+    },
+    {
+      "name": "Photojournalism Style: Candid",
+      "positive_prompt": "candid shot of movie still {prompt}. 50mm lens, f/2.8, spontaneous, unposed",
+      "negative_prompt": "poor lighting, motion blur, out of focus, distracting background, overprocessed"
+    },
+    {
+      "name": "Photojournalism Style: Documentary",
+      "positive_prompt": "documentary style of movie still {prompt}. 35mm lens, f/5.6, truthful representation, neutral perspective",
+      "negative_prompt": "overexposed, underexposed, oversaturated, motion blur, unsteady shot"
+    },
+    {
+      "name": "Fashion Photography Style: Haute Couture",
+      "positive_prompt": "haute couture display of movie still {prompt}. 85mm lens, f/2.2, vibrant colors, dramatic lighting",
+      "negative_prompt": "flat lighting, out of focus, distracting background, overprocessed, oversaturated"
+    },
+    {
+      "name": "Fashion Photography Style: Editorial",
+      "positive_prompt": "editorial fashion shot of movie still {prompt}. 50mm lens, f/2.5, storytelling, focused on outfit",
+      "negative_prompt": "unflattering pose, poor lighting, blurry, distracting elements, overexposed"
+    },
+    {
+      "name": "Fashion Photography Style: Catalog",
+      "positive_prompt": "catalog shot of movie still {prompt}. 70mm lens, f/5.6, neutral background, clear focus on attire",
+      "negative_prompt": "poor lighting, unflattering angles, distorted perspective, underexposed, oversaturated"
+    },
+    {
+      "name": "Sports Photography Style: Action-packed",
+      "positive_prompt": "action-packed shot of movie still {prompt}. 200mm lens, f/2.8, high shutter speed, capture the peak moment",
+      "negative_prompt": "motion blur, underexposed, out of focus, distracting background, unsteady shot"
+    },
+    {
+      "name": "Sports Photography Style: Emotional",
+      "positive_prompt": "emotional moment in movie still {prompt}. 135mm lens, f/4, capture expressions, ambient lighting",
+      "negative_prompt": "poor focus, high ISO noise, unsteady shot, underexposed, distorted colors"
+    },
+    {
+      "name": "Sports Photography Style: Narrative",
+      "positive_prompt": "narrative image of movie still {prompt}. 50mm lens, f/3.5, storytelling, context setting",
+      "negative_prompt": "unfocused, poor lighting, cluttered composition, overexposed, distorted perspective"
+    },
+    {
+      "name": "Still Life Photography Style: Minimalistic",
+      "positive_prompt": "minimalistic composition of movie still {prompt}. 50mm lens, f/5.6, simplistic design, neutral colors",
+      "negative_prompt": "cluttered, oversaturated, unbalanced composition, poor lighting, overexposed"
+    },
+    {
+      "name": "Still Life Photography Style: Dramatic",
+      "positive_prompt": "dramatic still life of movie still {prompt}. 85mm lens, f/2.2, dramatic lighting, intense colors",
+      "negative_prompt": "flat lighting, blurry, underexposed, distracting elements, oversaturated"
+    },
+    {
+      "name": "Still Life Photography Style: Rustic",
+      "positive_prompt": "rustic presentation of movie still {prompt}. 35mm lens, f/4, natural elements, warm tones",
+      "negative_prompt": "poor focus, overexposed, cluttered, cold colors, unbalanced composition"
+    },
+    {
+      "name": "Editorial Photography Style: Investigative",
+      "positive_prompt": "investigative shot of movie still {prompt}. 24mm lens, f/4, informative, intriguing",
+      "negative_prompt": "blurry, underexposed, distorted perspective, high ISO noise, distracting elements"
+    },
+    {
+      "name": "Editorial Photography Style: Lifestyle",
+      "positive_prompt": "lifestyle capture of movie still {prompt}. 50mm lens, f/2.8, candid, vibrant colors",
+      "negative_prompt": "poor lighting, overprocessed, distracting background, motion blur, unsteady shot"
+    },
+    {
+      "name": "Editorial Photography Style: Opinion",
+      "positive_prompt": "opinion image of movie still {prompt}. 35mm lens, f/5.6, emotive, storytelling",
+      "negative_prompt": "poor focus, underexposed, cluttered composition, overexposed highlights, distorted colors"
+    },
+    {
+      "name": "Architectural Photography Style: Historical",
+      "positive_prompt": "historical capture of movie still {prompt}. 24mm lens, f/8, capture architectural details, natural lighting",
+      "negative_prompt": "distorted perspective, underexposed, overprocessed, unsharp, oversaturated"
+    },
+    {
+      "name": "Architectural Photography Style: Modernist",
+      "positive_prompt": "modernist view of movie still {prompt}. 18mm lens, f/4, minimalistic, strong lines",
+      "negative_prompt": "barrel distortion, overexposed, blurry, poor composition, flat colors"
+    },
+    {
+      "name": "Architectural Photography Style: Surreal",
+      "positive_prompt": "surreal perspective of movie still {prompt}. Fisheye lens, f/2.8, abstract interpretation, vibrant colors",
+      "negative_prompt": "unfocused, poor lighting, underexposed, overprocessed, distracting elements"
+    }
+  ]
